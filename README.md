@@ -1,4 +1,4 @@
-# Pytorch code for OVPT [ACCV 2022]
+# Pytorch code for OVPT [ACCV 2022(Oral)]
 
 **OVPT: Optimal Viewset Pooling Transformer for 3D Object Recognition**
 
